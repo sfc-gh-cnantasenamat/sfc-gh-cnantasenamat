@@ -1,6 +1,6 @@
 # Hi, I'm Chanin 👋
 
-### Thanks for stopping by. Here's a little about me...
+### A little about me and what I'm building
 
 - 🎓 Lead Developer Advocate for Open Source at Snowflake, creating educational content on building data apps with Streamlit and Snowflake
 - 🧬 Former Professor of Bioinformatics, using Python and machine learning to teach and perform research in computational drug discovery
